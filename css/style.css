@@ -10,7 +10,7 @@ header{
    
 }
 footer{
-    background-color: grey;
+    background-color: rgb(25, 36, 30);
 }
 .top-footer{
 
@@ -19,7 +19,9 @@ footer{
 .bot-footer{
     padding-top: 15px;
 }
-
+.rule{
+    border-top: 2px solid rgb(142, 161, 225);
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
