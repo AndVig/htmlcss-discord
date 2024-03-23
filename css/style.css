@@ -144,6 +144,7 @@ footer{
 }
 .col-33 {
     width: calc(100% / 3);
+    height: max-content;
 }
 .col-25 {
     width: 25%;
