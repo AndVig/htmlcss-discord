@@ -67,7 +67,7 @@ footer{
 }
 
 .bg{
-    padding: 50px;
+    text-align: center;
 }
 
 .row {
@@ -185,6 +185,7 @@ footer{
     color: white;
     text-decoration-line: none;
     margin: 15px;
+    
 }
 .b-txt{
     color: black;
