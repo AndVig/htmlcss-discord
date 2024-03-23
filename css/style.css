@@ -75,8 +75,8 @@ footer{
     font-size:20px;
 }
 
-.bg{
-    text-align: center;
+.flag{
+    height: 25px;
 }
 
 .row {
@@ -113,6 +113,12 @@ footer{
 }
 .u-list li{
     display: inline-block;
+}
+.bot-list{
+    list-style-type: none;
+}
+.bot-list li{
+    margin: 10px;
 }
 
 .align-items-center{
@@ -163,7 +169,7 @@ footer{
 }
 .col-17{
     width: calc(100%/6);
-    background-color: green;
+ 
     height: 350px;
 }
 
@@ -196,6 +202,18 @@ footer{
     color: white;
     text-decoration-line: none;
     margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    font-weight: bold;
+
+    
+}
+.p-txt-link{
+    color: rgb(142, 161, 225)e;
+    text-decoration-line: none;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    font-weight: bold;
+ 
     
 }
 .b-txt{
@@ -203,6 +221,14 @@ footer{
 }
 .w-txt{
     color: white;
+}
+.p-txt{
+    color: rgb(142, 161, 225);
+    font-weight: bold;
+    font-size: 35px;
+}
+.ita{
+    margin: 0;
 }
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif    ;
