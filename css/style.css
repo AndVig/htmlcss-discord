@@ -41,6 +41,7 @@ footer{
     height: 800px;
     
 }
+
 .h-button{
     background-color: white;
     color: black;
@@ -131,6 +132,7 @@ footer{
 }
 .col-66 {
     width: calc(100% * 2/3);
+    height: max-content;
 }
 .col-50 {
     width: 50%;
@@ -183,6 +185,9 @@ footer{
     text-decoration-line: none;
     margin: 15px;
 }
+.b-txt{
+    color: black;
+}
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif    ;
     color: white;
@@ -190,6 +195,14 @@ h2{
     margin: 40px;
     vertical-align: top;
     text-align: center;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    color: black;
+    font-size: 35px;
+    margin: 40px;
+    vertical-align: top;
+    text-align: left;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif    ;
