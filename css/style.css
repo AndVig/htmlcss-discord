@@ -43,7 +43,13 @@ footer{
     height: 800px;
     
 }
-
+.wave{
+    padding-top: 160px;
+    background-image: url(../img/wave.svg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-blend-mode:multiply;
+}
 .h-button{
     background-color: white;
     color: black;
@@ -80,7 +86,9 @@ footer{
 .flag{
     height: 25px;
 }
-
+.w-bot{
+    padding-bottom: 50px;
+}
 .row {
     display: flex;
 
