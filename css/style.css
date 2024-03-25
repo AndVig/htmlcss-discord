@@ -44,12 +44,14 @@ footer{
     
 }
 .wave{
-    padding-top: 160px;
-    background-image: url(../img/wave.svg);
-    background-position: top;
-    background-repeat: no-repeat;
-    background-blend-mode:multiply;
+    height: 103px;
+    width: 2050px;
+    opacity: 0.17;
 }
+.flip{
+    transform: rotate(180deg);
+}
+
 .h-button{
     background-color: white;
     color: black;
@@ -162,7 +164,7 @@ footer{
     height: max-content;
 }
 .col-50 {
-    width: 50%;
+    width: 55%;
     padding: 10px;
 }
 .col-34{
