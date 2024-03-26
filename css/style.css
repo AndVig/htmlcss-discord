@@ -45,8 +45,9 @@ footer{
 }
 .wave{
     height: 103px;
-    width: 2050px;
+    width: 100%;
     opacity: 0.17;
+    display: block;
 }
 .flip{
     transform: rotate(180deg);
